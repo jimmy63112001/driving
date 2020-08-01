@@ -11,3 +11,5 @@ elif country == 'the US':
 		print('you can get driving test!')
 	else:
 		print('no qualificaiton!')
+else:
+	print('you can only enter taiwan or the US')
